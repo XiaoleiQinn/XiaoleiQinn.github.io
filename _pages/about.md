@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student at Wuhan University. Currently, I am focusing on:
-- Foundational model for earth observation (EO) data
+- Foundation model for earth observation (EO) data
 - Self-supervised learning
-- Satellite image time series data
+- Satellite image time series data processing
 
 
 # 🔥 News
