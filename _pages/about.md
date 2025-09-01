@@ -84,14 +84,15 @@ Di Wang*, Meiqi Hu*, Yao Jin*, Yuchun Miao*, Jiaqi Yang*, Yichu Xu*, **Xiaolei Q
 
 # 📚 Services
 - *2025.07-Present* Chair of IEEE GRSS Wuhan Student Branch Chapter
-- *2025.05-Present* Member of  of IEEE GRSS Content \& Design Team [[*News*]](https://x.com/IEEE_GRSS/status/1925160557537042701)
+- *2025.05-Present* Member of  of IEEE GRSS Content & Design Team [[*News*]](https://x.com/IEEE_GRSS/status/1925160557537042701)
 - *2024.06-2025.06* Vice chair of IEEE GRSS Wuhan Student Branch Chapter
 - *2023.07-Present* Editorial Intern, Geo-spatial Information Science
+  
 # 🎖 Honors and Awards
 - *2024.10* Outstanding postgraduate, Wuhan University. 
 - *2022.10* Outstanding postgraduate, Wuhan University.
 
 # 📖 Educations
-- *2021.09-Present*, Ph.D. Program in Photogrammetry and Remote Sensing in Wuhan University.
+- *2021.09-Present* Ph.D. Program in Photogrammetry and Remote Sensing in Wuhan University.
   - Supervisor: Prof. [*Liangpei Zhang*](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
-- *2017.09-2021.05*, B.E. of Geographical Information Science in Sun Yat-sen University. 
+- *2017.09-2021.05* B.E. of Geographical Information Science in Sun Yat-sen University. 
