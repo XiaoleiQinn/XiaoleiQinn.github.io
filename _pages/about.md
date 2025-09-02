@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student at the [*State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing*](https://liesmars.whu.edu.cn/), Wuhan University. Currently, I am focusing on:
-- Foundation model for earth observation (EO) data
+- Foundation model for Earth observation (EO) data
 - Self-supervised learning
 - Satellite image time series data processing
 
