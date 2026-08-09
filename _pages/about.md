@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,29 +17,43 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the [*State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing*](https://liesmars.whu.edu.cn/), Wuhan University. Currently, I am focusing on:
-- Foundation model for Earth observation (EO) data
-- Self-supervised learning
-- Satellite image time series data processing
+I received my Ph.D. in Photogrammetry and Remote Sensing from the [*State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing*](https://liesmars.whu.edu.cn/), Wuhan University, in June 2026. My research focuses on self-supervised learning and foundation models for satellite image time series (SITS), multi-source Earth observation, and multimodal remote sensing.
 
+My current research interests include:
+- Self-supervised pre-training and foundation models for satellite image time series
+- Spatiotemporal representation learning, cross-region generalization, and data-efficient adaptation
+- Multi-source optical/SAR Earth observation fusion, especially Sentinel-1/2 data
+- Vision-language and reasoning models for geospatial scene understanding and decision support
 
-# 🔥 News
-- *2025.05*: &nbsp; ✨ [*TiMo*](https://arxiv.org/pdf/2505.08723) is on ArXiv now (Spatiotemporal Foundation Model for Satellite Image Time Series).
-- *2025.04*: &nbsp; 🎉 HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model" is acceptted by <b>IEEE TPAMI</b> (<a href="https://ieeexplore.ieee.org/document/10949864" target="_blank">link</a>).
-- *2025.03*: &nbsp; 🎉 One paper is accepted by <b>JAG</b> (<a href="https://www.sciencedirect.com/science/article/pii/S1569843225000731" target="_blank">link</a>). 
-- *2025.03*: &nbsp; ✨ One paper is accepted for oral presentation at IGARSS 2025.
+# News
+- *2026.03*: &nbsp; [SPEX](https://doi.org/10.1109/TGRS.2026.3670308), a vision-language model for land-cover extraction on spectral remote sensing images, was published in <b>IEEE TGRS</b>.
+- *2025.11*: &nbsp; [GeoZero](https://arxiv.org/abs/2511.22645), a multimodal framework for geospatial scene reasoning, was released on arXiv.
+- *2025.11*: &nbsp; I received the First Prize of the China Remote Sensing Outstanding Achievement Award.
+- *2025.05*: &nbsp; [TiMo](https://arxiv.org/pdf/2505.08723), a spatiotemporal foundation model for satellite image time series, was accepted by <b>SCIS</b>.
+- *2025.04*: &nbsp; [HyperSIGMA](https://ieeexplore.ieee.org/document/10949864) was published in <b>IEEE TPAMI</b>.
+- *2025.03*: &nbsp; My first-author paper on spatiotemporal masked pre-training for crop mapping was published in <b>JAG</b> (<a href="https://www.sciencedirect.com/science/article/pii/S1569843225000731" target="_blank">link</a>).
+- *2025.03*: &nbsp; One paper was accepted for oral presentation at IGARSS 2025.
 
-# 📝 Publications 
-Note: * Equal contribution, ^ Corresponding authors.
+# Publications
+Note: \* Equal contribution; ^ Corresponding authors.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS accepted</div><img src='images/TiMo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series](https://arxiv.org/pdf/2505.08723)
+
+**Xiaolei Qin**\*, Di Wang\*, Jing Zhang^, Fengxiang Wang, Xin Su, Bo Du, Liangpei Zhang
+
+[[**Code**](https://github.com/MiliLab/TiMo)]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/hypersigma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://ieeexplore.ieee.org/document/10949864)
 
-Di Wang*, Meiqi Hu*, Yao Jin*, Yuchun Miao*, Jiaqi Yang*, Yichu Xu*, **Xiaolei Qin***, Jiaqi Ma*, Lingyu Sun*, Chenxing Li*, Chuan Fu, Hongruixuan Chen, Chengxi Han^, Naoto Yokoya, Jing Zhang^, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu^, Bo Du^, Dacheng Tao, Liangpei Zhang^
+Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, Yichu Xu\*, **Xiaolei Qin**\*, Jiaqi Ma\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han^, Naoto Yokoya, Jing Zhang^, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu^, Bo Du^, Dacheng Tao, Liangpei Zhang^
 
 [[**Code**](https://github.com/WHU-Sigma/HyperSIGMA)]  [[**Project**](https://whu-sigma.github.io/HyperSIGMA/)]
-
 </div>
 </div>
 
@@ -53,23 +67,21 @@ Di Wang*, Meiqi Hu*, Yao Jin*, Yuchun Miao*, Jiaqi Yang*, Yichu Xu*, **Xiaolei Q
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/TiMo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- [TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series](https://arxiv.org/pdf/2505.08723)
+## Additional Selected Works
+- [GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://arxiv.org/abs/2511.22645)  
+  Di Wang, Shunyu Liu, Wentao Jiang, Fengxiang Wang, Yi Liu, **Xiaolei Qin**, Zhiming Luo, Chaoyang Zhou, Haonan Guo, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang
 
-**Xiaolei Qin***, Di Wang*, Jing Zhang^, Fengxiang Wang, Xin Su, Bo Du, Liangpei Zhang
+- [SPEX: A Vision-Language Model for Land Cover Extraction on Spectral Remote Sensing Images](https://doi.org/10.1109/TGRS.2026.3670308)  
+  Dongchen Si, Di Wang, Erzhong Gao, **Xiaolei Qin**, Liu Zhao, Jing Zhang, Minqiang Xu^, Jianbo Zhan^, Jianshe Wang, Lin Liu, Bo Du, Liangpei Zhang
 
-[[**Code**](https://github.com/MiliLab/TiMo)]
-</div>
-</div>
-
+- [SITSMAMBA for Crop Classification Based on Satellite Image Time Series](https://doi.org/10.1109/IGARSS55030.2025.11243832)  
+  **Xiaolei Qin**, Xin Su^, Liangpei Zhang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/igarss2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Knowledge-Guided Satellite Image Time Series Classification Network for Crop Mapping](https://ieeexplore.ieee.org/abstract/document/10640757)
 
 **Xiaolei Qin**, Xin Su^, Liangpei Zhang
-
 </div>
 </div>
 
@@ -77,22 +89,26 @@ Di Wang*, Meiqi Hu*, Yao Jin*, Yuchun Miao*, Jiaqi Yang*, Yichu Xu*, **Xiaolei Q
 <div class='paper-box-text' markdown="1">
 - [Inundation Impact on Croplands of 2020 Flood Event in Three Provinces of China](https://ieeexplore.ieee.org/abstract/document/9745760)
 
-**Xiaolei Qin***, Qian Shi^, Dongzhi Wang, Xin Su
-
+**Xiaolei Qin**, Qian Shi^, Dongzhi Wang, Xin Su
 </div>
 </div>
 
-# 📚 Services
-- *2025.07-Present* Chair of IEEE GRSS Wuhan Student Branch Chapter
-- *2025.05-Present* Member of  of IEEE GRSS Content & Design Team [[*News*]](https://x.com/IEEE_GRSS/status/1925160557537042701)
-- *2024.06-2025.06* Vice chair of IEEE GRSS Wuhan Student Branch Chapter
+# Services
+- *2025.07-Present* Chair, IEEE GRSS Wuhan Student Branch Chapter
+- *2025.05-Present* Member, IEEE GRSS Content & Design Team [[*News*]](https://www.linkedin.com/posts/behind-every-igarss-live-stream-viral-share-7359818282834563072-JRnG/)
+- *2024.06-2025.06* Vice Chair, IEEE GRSS Wuhan Student Branch Chapter
 - *2023.07-Present* Editorial Intern, Geo-spatial Information Science
-  
-# 🎖 Honors and Awards
-- *2024.10* Outstanding postgraduate, Wuhan University. 
-- *2022.10* Outstanding postgraduate, Wuhan University.
+- Reviewer for IEEE TGRS, IEEE JSTARS, ICML, IEEE GRSL, and Scientific Data
 
-# 📖 Educations
-- *2021.09-Present* Ph.D. Program in Photogrammetry and Remote Sensing in Wuhan University.
-  - Supervisor: Prof. [*Liangpei Zhang*](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
-- *2017.09-2021.05* B.E. of Geographical Information Science in Sun Yat-sen University. 
+# Honors and Awards
+- *2025.11* First Prize, China Remote Sensing Outstanding Achievement Award, awarded by the Chinese National Committee for Remote Sensing.
+- *2024.10* Second-Class Academic Excellence Scholarship, Wuhan University.
+- *2022.10* Second-Class Academic Excellence Scholarship, Wuhan University.
+
+# Patent
+- Normalized Difference Vegetation Index (NDVI) time-series data reconstruction method and system, CN116434050B.
+
+# Education
+- *2021.09-2026.06* Ph.D. in Photogrammetry and Remote Sensing, Wuhan University.
+  - Advisors: Prof. [*Liangpei Zhang*](https://zhangliangpei.cn/), Prof. [*Xin Su*](https://scholar.google.com/citations?user=aSqNc38AAAAJ&hl=zh-CN), and Prof. [*Chen Wu*](https://jszy.whu.edu.cn/wuchen/en/index.htm).
+- *2017.09-2021.06* B.S. in Geographical Information Science, Sun Yat-sen University.
