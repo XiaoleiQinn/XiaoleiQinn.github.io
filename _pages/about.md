@@ -68,15 +68,6 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, Yichu Xu\*, **Xia
 </div>
 
 ## Additional Selected Works
-- [GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://arxiv.org/abs/2511.22645)  
-  Di Wang, Shunyu Liu, Wentao Jiang, Fengxiang Wang, Yi Liu, **Xiaolei Qin**, Zhiming Luo, Chaoyang Zhou, Haonan Guo, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang
-
-- [SPEX: A Vision-Language Model for Land Cover Extraction on Spectral Remote Sensing Images](https://doi.org/10.1109/TGRS.2026.3670308)  
-  Dongchen Si, Di Wang, Erzhong Gao, **Xiaolei Qin**, Liu Zhao, Jing Zhang, Minqiang Xu^, Jianbo Zhan^, Jianshe Wang, Lin Liu, Bo Du, Liangpei Zhang
-
-- [SITSMAMBA for Crop Classification Based on Satellite Image Time Series](https://doi.org/10.1109/IGARSS55030.2025.11243832)  
-  **Xiaolei Qin**, Xin Su^, Liangpei Zhang
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/igarss2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Knowledge-Guided Satellite Image Time Series Classification Network for Crop Mapping](https://ieeexplore.ieee.org/abstract/document/10640757)
@@ -93,6 +84,15 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, Yichu Xu\*, **Xia
 </div>
 </div>
 
+- [GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://arxiv.org/abs/2511.22645)  
+  Di Wang, Shunyu Liu, Wentao Jiang, Fengxiang Wang, Yi Liu, **Xiaolei Qin**, Zhiming Luo, Chaoyang Zhou, Haonan Guo, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang
+
+- [SPEX: A Vision-Language Model for Land Cover Extraction on Spectral Remote Sensing Images](https://doi.org/10.1109/TGRS.2026.3670308)  
+  Dongchen Si, Di Wang, Erzhong Gao, **Xiaolei Qin**, Liu Zhao, Jing Zhang, Minqiang Xu^, Jianbo Zhan^, Jianshe Wang, Lin Liu, Bo Du, Liangpei Zhang
+
+- [SITSMAMBA for Crop Classification Based on Satellite Image Time Series](https://doi.org/10.1109/IGARSS55030.2025.11243832)  
+  **Xiaolei Qin**, Xin Su^, Liangpei Zhang
+  
 # Services
 - *2025.07-Present* Chair, IEEE GRSS Wuhan Student Branch Chapter
 - *2025.05-Present* Member, IEEE GRSS Content & Design Team [[*News*]](https://www.linkedin.com/posts/behind-every-igarss-live-stream-viral-share-7359818282834563072-JRnG/)
