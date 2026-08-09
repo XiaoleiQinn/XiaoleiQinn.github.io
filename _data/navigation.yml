@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Services"
-    url: "/#-services"
-    
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#services"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+
+  - title: "Education"
+    url: "/#education"
 
